@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EARTHQUAKER</string>
+    <string name="eq_empty_view">No earthquakes right now</string>
+
+    <string name="magnitude_format">%.2f</string>
+    <string name="ritcher">Ritcher</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="sort_by_time">sort by time</string>
+    <string name="sort_by_magnitude">sort by magnitude</string>
+</resources>
